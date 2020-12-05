@@ -10,6 +10,8 @@
 
 ### Documentations
 * [ROS Official Documentation](http://wiki.ros.org/ROS/Tutorials)
+* [Husarion DOCS](https://husarion.com/tutorials/)
+* [Clearpath Robotics](http://www.clearpathrobotics.com/assets/guides/melodic/ros/)
 
 ### Books
 * [Effective Robotics Programming with ROS - 3rd Edition](https://github.com/StevenShiChina/books/blob/master/Effective.Robotics.Programming.with.ROS.3rd.Edition.pdf)
@@ -24,6 +26,7 @@
 
 ### Courses 
 * [ROS for Beginners: Basics, Motion, and OpenCV](https://www.udemy.com/course/ros-essentials/)
+* [The Construct](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/)
 
 ### YouTube Channel
 * [The Construct](https://www.youtube.com/c/TheConstruct/playlists)
