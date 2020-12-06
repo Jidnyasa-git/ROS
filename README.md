@@ -1,3 +1,5 @@
+Hope you will find this helpful. Feel free to give your suggestions : jidnyasa.misal@gmail.com
+
 # ROS
 
 ### Table of Contents
@@ -29,7 +31,9 @@
 
 ### Courses 
 * [ROS for Beginners: Basics, Motion, and OpenCV](https://www.udemy.com/course/ros-essentials/)
+* [ROS for Beginners II: Localization, Navigation and SLAM](https://www.udemy.com/course/ros-navigation/)
 * [The Construct](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/)
+* [Hello (Real) World with ROS – Robot Operating System (Note: Archived: Future Dates To Be Announced)](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system)
 
 ### YouTube Channel
 * [The Construct](https://www.youtube.com/c/TheConstruct/playlists)
@@ -37,12 +41,13 @@
 * [ROS Tutorials: Tiziano Fiorenzani](https://www.youtube.com/playlist?list=PLuteWQUGtU9BU0sQIVqRQa24p-pSBCYNv)
 * [ROS Tutorials: ROBOTIS](https://www.youtube.com/playlist?list=PLRG6WP3c31_U7TFGduEIJWVtkOw6AJjFf)
 * [Programming for Robotics(ROS)](https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
+* [ROS Short Course at WHOI](https://www.youtube.com/channel/UCNvvEcyAZnZa183rhMmuq4Q)
 
 ### Cheatsheet
 * [Cheatsheet1](https://drive.google.com/file/d/16d6o6wGUu2740ue7YWm6m4ep61_9vAfe/view?usp=sharing)
 * [Cheatsheet2](https://drive.google.com/file/d/1SPL8jVTt4xqBDphZ13LSou3FvBn8Y-6I/view?usp=sharing)
 
 ### GitHub Repositories
-*
+* [Ubuntu Docker container with ROS and visualization tools for simulations](https://github.com/Grendel61/ros-visualization)
 
 ### Projects
