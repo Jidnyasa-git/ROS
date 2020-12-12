@@ -39,6 +39,7 @@ Hope you will find this helpful. Feel free to give your suggestions : jidnyasa.m
 * [The Construct](https://www.youtube.com/c/TheConstruct/playlists)
 * [ROS Tutorials: Justin Huang](https://www.youtube.com/playlist?list=PLJNGprAk4DF5PY0kB866fEZfz6zMLJTF8)
 * [ROS Tutorials: Tiziano Fiorenzani](https://www.youtube.com/playlist?list=PLuteWQUGtU9BU0sQIVqRQa24p-pSBCYNv)
+* [ROS Tutorials: Chris Fauerbach](https://www.youtube.com/playlist?list=PLqi-xrdpN7ZClBou0wh8Lqh8TR_krvpLq)
 * [ROS Tutorials: ROBOTIS](https://www.youtube.com/playlist?list=PLRG6WP3c31_U7TFGduEIJWVtkOw6AJjFf)
 * [Programming for Robotics(ROS)](https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
 * [ROS Short Course at WHOI](https://www.youtube.com/channel/UCNvvEcyAZnZa183rhMmuq4Q)
