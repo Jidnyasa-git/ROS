@@ -7,8 +7,9 @@ Hope you will find this helpful. Feel free to give your suggestions : jidnyasa.m
 2. [Books](https://github.com/Jidnyasa-git/ROS#books)
 3. [Courses](https://github.com/Jidnyasa-git/ROS#courses)
 4. [YouTube Channel](https://github.com/Jidnyasa-git/ROS#youtube-channel)
-5. [GitHub Repositories](https://github.com/Jidnyasa-git/ROS#github-repositories)
-6. [Projects](https://github.com/Jidnyasa-git/ROS#projects)
+5. [Cheatsheet](https://github.com/Jidnyasa-git/ROS#cheatsheet)
+6. [GitHub Repositories](https://github.com/Jidnyasa-git/ROS#github-repositories)
+7. [Projects](https://github.com/Jidnyasa-git/ROS#projects)
 
 ### Documentations
 * [ROS Official Documentation](http://wiki.ros.org/ROS/Tutorials)
