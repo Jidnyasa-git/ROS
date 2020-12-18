@@ -33,7 +33,7 @@ Hope you will find this helpful. Feel free to give your suggestions : jidnyasa.m
 * [ROS for Beginners: Basics, Motion, and OpenCV](https://www.udemy.com/course/ros-essentials/)
 * [ROS for Beginners II: Localization, Navigation and SLAM](https://www.udemy.com/course/ros-navigation/)
 * [The Construct](https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/)
-* [Hello (Real) World with ROS – Robot Operating System (Note: Archived: Future Dates To Be Announced)](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system)
+* [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system)
 
 ### YouTube Channel
 * [The Construct](https://www.youtube.com/c/TheConstruct/playlists)
@@ -43,10 +43,16 @@ Hope you will find this helpful. Feel free to give your suggestions : jidnyasa.m
 * [ROS Tutorials: ROBOTIS](https://www.youtube.com/playlist?list=PLRG6WP3c31_U7TFGduEIJWVtkOw6AJjFf)
 * [Programming for Robotics(ROS)](https://www.youtube.com/watch?v=0BxVPCInS3M&list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
 * [ROS Short Course at WHOI](https://www.youtube.com/channel/UCNvvEcyAZnZa183rhMmuq4Q)
+* [ROS Tutorials: Tiziano Fiorenzani](https://www.youtube.com/playlist?list=PLuteWQUGtU9BU0sQIVqRQa24p-pSBCYNv)
+* [ROS Tutorials for Beginners: Shawn Chen](https://www.youtube.com/playlist?list=PLk51HrKSBQ8-jTgD0qgRp1vmQeVSJ5SQC)
+* [ROS Tutorial: MieRobot](https://www.youtube.com/playlist?list=PLud1D2wIGgfpIyF_6pYBn-agISpbJjGpf)
+* [ROS with Arduino Robotics Tutorials: MieRobot](https://www.youtube.com/playlist?list=PLud1D2wIGgfphDMApXHoUfPnOWbciQ1Mc)
+* [ROS Tutorials: Pranshu Tople](https://www.youtube.com/playlist?list=PLFnCFnTZNyU_qI4eVTHmCiVL5rKeJppB8)
+* [ROS Video Tutorials: Lentin Joseph](https://www.youtube.com/playlist?list=PL3064BF19A4F4CD1F)
 
 ### Cheatsheet
-* [Cheatsheet1](https://drive.google.com/file/d/16d6o6wGUu2740ue7YWm6m4ep61_9vAfe/view?usp=sharing)
-* [Cheatsheet2](https://drive.google.com/file/d/1SPL8jVTt4xqBDphZ13LSou3FvBn8Y-6I/view?usp=sharing)
+* [Cheatsheet1: Hello (Real) World with ROS - EDX](https://drive.google.com/file/d/16d6o6wGUu2740ue7YWm6m4ep61_9vAfe/view?usp=sharing)
+* [Cheatsheet2: Willow Garage](https://drive.google.com/file/d/1SPL8jVTt4xqBDphZ13LSou3FvBn8Y-6I/view?usp=sharing)
 
 ### GitHub Repositories
 * [Ubuntu Docker container with ROS and visualization tools for simulations](https://github.com/Grendel61/ros-visualization)
